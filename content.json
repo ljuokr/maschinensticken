@@ -1,0 +1,564 @@
+[
+ {
+  "slug": "maschinensticken",
+  "label": "Übersicht",
+  "title": "Maschinensticken",
+  "sections": [
+   {
+    "id": "kopf",
+    "accordion": false,
+    "title": "",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h1>Maschinensticken</h1><p class=\"lead\">Fachbereich <a href=\"https://sites.google.com/view/design-und-technik/home\" rel=\"noopener noreferrer\" target=\"_blank\">Design &amp; Technik</a></p><p>Diese Anleitung führt vom eigenen Motiv über die Stickdatei bis zur fertigen Stickerei auf der Bernina B 535 und B 590 mit Stickmodul im Textilatelier Sagenmatt der PH Luzern. Sie beschränkt sich auf das Wichtigste, damit die erste Stickerei gelingt und danach selbständiges Arbeiten möglich ist.</p><figure class=\"schritt\"><img src=\"/assets/maschine-b590.jpg\" alt=\"Bernina B 590 mit angeschlossenem Stickmodul, im Stickrahmen ein brauner Stoff mit rosa Gecko, auf dem Bildschirm das Stickmuster\" width=\"1000\" height=\"713\" loading=\"lazy\"><figcaption>Bernina B 590 mit Stickmodul im Atelier.</figcaption></figure>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "vorgehen",
+    "accordion": false,
+    "title": "Vorgehen",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Vorgehen</h2><ol><li><a href=\"/stickdatei\">Stickdatei erstellen</a>: Motiv programmieren, zeichnen oder digitalisieren, als EXP- oder DST-Datei speichern. Gleich in der Grösse entwerfen, in der gestickt wird.</li><li>Übertragen: Datei per USB-Stick oder Kabel auf die Maschine bringen.</li><li><a href=\"/stickgrund\">Stickgrund vorbereiten</a>: passendes Vlies wählen, Mitte markieren, im Stickrahmen einspannen.</li><li><a href=\"/sticken\">Maschine einrichten</a>: Stickmodul, Stickfuss 26, Sticknadel, Ober- und Unterfaden, Rahmen.</li><li><a href=\"/sticken#stickprobe\">Stickprobe</a>: immer mit Originalstoff, Originalvlies und Originalfaden.</li><li><a href=\"/sticken#sticken-ablauf\">Sticken</a>: Maschine beobachten, danach Vlies entfernen und den Platz aufräumen.</li></ol>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "ablauf",
+    "accordion": false,
+    "title": "Vom Motiv zur Stickerei",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Vom Motiv zur Stickerei</h2><div class=\"diagram\" tabindex=\"0\" role=\"region\" aria-label=\"Ablaufgrafik, bei Bedarf seitlich verschiebbar\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 760 390\" role=\"img\" aria-labelledby=\"st-title st-desc\" font-family=\"Lato, Arial, sans-serif\" fill=\"#222\"><title id=\"st-title\">Vom Motiv zur Stickerei</title><desc id=\"st-desc\">Schritt 1, Stickdatei erstellen: vier Wege, Programmieren (TurtleStitch, Embroidery Designer), Zeichnen (Inkscape mit Ink/Stitch), Digitalisieren (ein Bild in der Bernina Sticksoftware 9 umwandeln) und fertige Muster aus der Maschine oder dem Internet. Alle vier Wege münden in einer Stickdatei im Format EXP oder DST. Danach folgen Schritt 2 Übertragen per USB-Stick oder Kabel, Schritt 3 Stickgrund mit passendem Vlies vorbereiten und einspannen, Schritt 4 Maschine einrichten mit Stickfuss, Nadel, Faden und Rahmen, Schritt 5 Stickprobe mit Originalstoff und Originalfaden, Schritt 6 Sticken, danach Vlies entfernen und aufräumen.</desc><defs><marker id=\"st-pfeil\" viewBox=\"0 0 10 10\" refX=\"0\" refY=\"5\" markerWidth=\"10\" markerHeight=\"10\" markerUnits=\"userSpaceOnUse\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#087d84\"/></marker></defs><circle cx=\"25\" cy=\"15\" r=\"11\" fill=\"#087d84\"/><text x=\"25\" y=\"20\" font-size=\"15\" font-weight=\"bold\" fill=\"#fff\" text-anchor=\"middle\">1</text><text x=\"42\" y=\"20\" font-size=\"16\" font-weight=\"bold\">Stickdatei erstellen</text><rect x=\"88\" y=\"38\" width=\"140\" height=\"72\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><text x=\"158\" y=\"62\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Programmieren</text><text x=\"158\" y=\"84\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">TurtleStitch,</text><text x=\"158\" y=\"102\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Embroidery Designer</text><rect x=\"236\" y=\"38\" width=\"140\" height=\"72\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><text x=\"306\" y=\"62\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Zeichnen</text><text x=\"306\" y=\"84\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Inkscape mit</text><text x=\"306\" y=\"102\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Ink/Stitch</text><rect x=\"384\" y=\"38\" width=\"140\" height=\"72\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><text x=\"454\" y=\"62\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Digitalisieren</text><text x=\"454\" y=\"84\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Bild umwandeln in</text><text x=\"454\" y=\"102\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Sticksoftware 9</text><rect x=\"532\" y=\"38\" width=\"140\" height=\"72\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><text x=\"602\" y=\"62\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Fertige Muster</text><text x=\"602\" y=\"84\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">aus der Maschine</text><text x=\"602\" y=\"102\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">oder dem Internet</text><g fill=\"none\" stroke=\"#087d84\" stroke-width=\"2\" marker-end=\"url(#st-pfeil)\"><path d=\"M158,111 C158,136.5 305,136.5 305,162\"/><path d=\"M306,111 C306,136.5 355,136.5 355,162\"/><path d=\"M454,111 C454,136.5 405,136.5 405,162\"/><path d=\"M602,111 C602,136.5 455,136.5 455,162\"/></g><rect x=\"260\" y=\"172\" width=\"240\" height=\"46\" rx=\"6\" fill=\"#087d84\"/><text x=\"380\" y=\"201\" font-size=\"17\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#fff\">Stickdatei EXP oder DST</text><path d=\"M380,218 C380,243.5 72,243.5 72,269\" fill=\"none\" stroke=\"#087d84\" stroke-width=\"2\" marker-end=\"url(#st-pfeil)\"/><rect x=\"4\" y=\"290\" width=\"136\" height=\"92\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><circle cx=\"72\" cy=\"290\" r=\"11\" fill=\"#087d84\"/><text x=\"72\" y=\"295\" font-size=\"15\" font-weight=\"bold\" fill=\"#fff\" text-anchor=\"middle\">2</text><text x=\"72\" y=\"326\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Übertragen</text><text x=\"72\" y=\"348\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">USB-Stick</text><text x=\"72\" y=\"366\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">oder Kabel</text><rect x=\"158\" y=\"290\" width=\"136\" height=\"92\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><circle cx=\"226\" cy=\"290\" r=\"11\" fill=\"#087d84\"/><text x=\"226\" y=\"295\" font-size=\"15\" font-weight=\"bold\" fill=\"#fff\" text-anchor=\"middle\">3</text><text x=\"226\" y=\"326\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Stickgrund</text><text x=\"226\" y=\"348\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Vlies wählen,</text><text x=\"226\" y=\"366\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">einspannen</text><path d=\"M141,336 L147,336\" stroke=\"#087d84\" stroke-width=\"2\" marker-end=\"url(#st-pfeil)\"/><rect x=\"312\" y=\"290\" width=\"136\" height=\"92\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><circle cx=\"380\" cy=\"290\" r=\"11\" fill=\"#087d84\"/><text x=\"380\" y=\"295\" font-size=\"15\" font-weight=\"bold\" fill=\"#fff\" text-anchor=\"middle\">4</text><text x=\"380\" y=\"326\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Einrichten</text><text x=\"380\" y=\"348\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Stickfuss, Nadel,</text><text x=\"380\" y=\"366\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Faden, Rahmen</text><path d=\"M295,336 L301,336\" stroke=\"#087d84\" stroke-width=\"2\" marker-end=\"url(#st-pfeil)\"/><rect x=\"466\" y=\"290\" width=\"136\" height=\"92\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><circle cx=\"534\" cy=\"290\" r=\"11\" fill=\"#087d84\"/><text x=\"534\" y=\"295\" font-size=\"15\" font-weight=\"bold\" fill=\"#fff\" text-anchor=\"middle\">5</text><text x=\"534\" y=\"326\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Stickprobe</text><text x=\"534\" y=\"348\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Originalstoff,</text><text x=\"534\" y=\"366\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Originalfaden</text><path d=\"M449,336 L455,336\" stroke=\"#087d84\" stroke-width=\"2\" marker-end=\"url(#st-pfeil)\"/><rect x=\"620\" y=\"290\" width=\"136\" height=\"92\" rx=\"6\" fill=\"#f5f8f8\" stroke=\"#087d84\" stroke-width=\"1.5\"/><circle cx=\"688\" cy=\"290\" r=\"11\" fill=\"#087d84\"/><text x=\"688\" y=\"295\" font-size=\"15\" font-weight=\"bold\" fill=\"#fff\" text-anchor=\"middle\">6</text><text x=\"688\" y=\"326\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\">Sticken</text><text x=\"688\" y=\"348\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">Vlies entfernen,</text><text x=\"688\" y=\"366\" font-size=\"14\" fill=\"#646464\" text-anchor=\"middle\">aufräumen</text><path d=\"M603,336 L609,336\" stroke=\"#087d84\" stroke-width=\"2\" marker-end=\"url(#st-pfeil)\"/></svg></div>"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "stickdatei",
+  "label": "Stickdatei erstellen",
+  "title": "Stickdatei erstellen",
+  "sections": [
+   {
+    "id": "kopf-datei",
+    "accordion": false,
+    "title": "",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h1>Stickdatei erstellen</h1><p>Die Stickmaschine stickt kein Bild, sondern fährt Stich für Stich Koordinaten ab. Diese stehen in der Stickdatei, zusammen mit Farbwechseln und Sprüngen. Die Bernina B 535 und B 590 lesen das eigene Bernina-Format <strong>EXP</strong> und das Tajima-Format <strong>DST</strong>, das fast alle Stickmaschinen verstehen.</p><ul><li><strong>In der Endgrösse entwerfen.</strong> Beim Vergrössern oder Verkleinern auf der Maschine bleibt die Stichzahl gleich, die Stiche werden länger oder dichter. Mehr als etwa 10&nbsp;% ist darum nicht sinnvoll.</li><li><strong>Vektor statt Pixel.</strong> Eine Vektorgrafik (SVG, AI, DXF) besteht aus Linien und Flächen, daraus lassen sich Stiche berechnen. Ein Pixelbild (JPG, PNG) muss zuerst nachgezeichnet oder digitalisiert werden. Klare Formen, wenige Farben und starke Kontraste ergeben bessere Stickereien.<figure class=\"schritt klein\"><img src=\"/assets/pixel-vektor.png\" alt=\"Gleicher Buchstabe S stark vergrössert: links als Pixelbild mit treppigen Kanten, rechts als Vektorgrafik mit glatten Kanten\" width=\"960\" height=\"445\" loading=\"lazy\"><figcaption>Vergrössert: links Pixelbild, rechts Vektorgrafik. Bild: <a href=\"https://commons.wikimedia.org/wiki/File:Bitmap_vs_SVG_no_text.svg\" rel=\"noopener noreferrer\" target=\"_blank\">Wesalius, Wikimedia Commons</a>, CC BY-SA 4.0.</figcaption></figure></li><li><strong>Grösse des Stickrahmens</strong> von Anfang an berücksichtigen. Im Atelier gibt es den grossen ovalen Rahmen (Stickfläche 145&nbsp;×&nbsp;255&nbsp;mm), den mittleren (100&nbsp;×&nbsp;130&nbsp;mm) und den kleinen Freiarmrahmen (50&nbsp;×&nbsp;72&nbsp;mm).</li></ul>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "wege",
+    "accordion": false,
+    "title": "Wege zur Stickdatei",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Wege zur Stickdatei</h2><table><thead><tr><th scope=\"col\">Weg</th><th scope=\"col\">Geeignet für</th><th scope=\"col\">Link und Anleitung</th></tr></thead><tbody><tr><th scope=\"row\">TurtleStitch<br><small>kostenlos, im Browser, Konto nur zum Speichern online</small></th><td>Einstieg ins Programmieren mit Blöcken, geometrische Muster, Spiralen, Linienzeichnungen</td><td><a href=\"https://www.turtlestitch.org/run\" rel=\"noopener noreferrer\" target=\"_blank\">turtlestitch.org</a>, <a href=\"/stickdatei#kurz-turtlestitch\">Kurzanleitung</a>.</td></tr><tr><th scope=\"row\">Embroidery Designer<br><small>kostenlos, ohne Werbung, nur Android</small></th><td>Programmieren mit Blöcken auf dem Tablet, ähnlich wie TurtleStitch, viele Unterrichtsbeispiele</td><td><a href=\"https://play.google.com/store/apps/details?id=org.catrobat.catroid.embroiderydesigner\" rel=\"noopener noreferrer\" target=\"_blank\">Google Play</a>, <a href=\"https://catrobat.org/docs/brickdocumentation/embroidery/\" rel=\"noopener noreferrer\" target=\"_blank\">Stick-Bausteine bei Catrobat</a>.</td></tr><tr><th scope=\"row\">Inkscape mit Ink/Stitch<br><small>kostenlos, Open Source, Installation nötig, Mac und Windows</small></th><td>Eigene Zeichnungen und Schriftzüge als Vektorgrafik, volle Kontrolle über Stichart und Reihenfolge, anspruchsvoller</td><td><a href=\"https://inkscape.org/de/\" rel=\"noopener noreferrer\" target=\"_blank\">inkscape.org</a>, <a href=\"https://inkstitch.org/de/\" rel=\"noopener noreferrer\" target=\"_blank\">inkstitch.org</a>, <a href=\"/stickdatei#kurz-inkstitch\">Kurzanleitung</a>.</td></tr><tr><th scope=\"row\">Bernina Sticksoftware 9<br><small>kostenpflichtig, nur Windows, Testversion 30 Tage</small></th><td>Bilder automatisch in Stickmuster umwandeln, Farbfotostickerei, Schriften, Füllungen</td><td>Installiert auf dem Atelier-Laptop, <a href=\"/stickdatei#kurz-sticksoftware\">Kurzanleitung</a>, <a href=\"https://www.bernina.com/de-CH/Software-CH/Sticksoftware/BERNINA-Sticksoftware-9\" rel=\"noopener noreferrer\" target=\"_blank\">Bernina</a>.</td></tr><tr><th scope=\"row\">Stitchcode Drawtool<br><small>kostenlos, im Browser</small></th><td>Mit Maus oder Grafiktablett eine Linie zeichnen, auch über eine Bildvorlage, Ausgabe als EXP</td><td><a href=\"https://stitchcode.com/drawtool/\" rel=\"noopener noreferrer\" target=\"_blank\">stitchcode.com/drawtool</a></td></tr><tr><th scope=\"row\">Fertige Muster<br><small>in der Maschine oder aus dem Internet</small></th><td>Schriften, Bordüren, Motive. Auf der Maschine lassen sie sich drehen, spiegeln, kombinieren und in der Grösse anpassen.</td><td><a href=\"/stickdatei#fertige-muster\">Fertige Muster</a></td></tr></tbody></table>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "kurz-turtlestitch",
+    "accordion": true,
+    "title": "Kurzanleitung TurtleStitch",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<p>TurtleStitch funktioniert wie Scratch: Blöcke steuern eine Schildkröte, ihr Weg wird zur Stichlinie.</p><figure class=\"schritt\"><img src=\"/assets/turtlestitch-ablauf.png\" alt=\"Links ein Skript aus farbigen Blöcken, in der Mitte die daraus entstandene Sternrosette mit Massstab 10 mm, rechts dieselbe Rosette unter dem Stickfuss der Maschine\" width=\"1099\" height=\"328\" loading=\"lazy\"><figcaption>Vom Skript über die Vorschau zur Stickerei. Bild: <a href=\"https://commons.wikimedia.org/wiki/File:Turtlestitch,_code,_draw_stitch.png\" rel=\"noopener noreferrer\" target=\"_blank\">Tina Hochkogler und Andrea Mayr-Stalder, Wikimedia Commons</a>, CC BY 4.0.</figcaption></figure><ol><li><a href=\"https://www.turtlestitch.org/run\" rel=\"noopener noreferrer\" target=\"_blank\">turtlestitch.org/run</a> im Browser öffnen. Ohne Konto lässt sich alles ausprobieren und exportieren, mit Konto werden Projekte online gespeichert.</li><li>Masse: <strong>1 Schritt = 0,2&nbsp;mm</strong>, 50 Schritte = 1&nbsp;cm, 750 Schritte = 15&nbsp;cm. Unter der Bühne steht die Grösse des Motivs in mm.</li><li>Zuerst den Block für den Laufstich setzen und die Stichlänge auf <strong>8 bis 12 Schritte</strong> stellen (10 Schritte = 2&nbsp;mm). Kürzer wird dicht und kann den Stoff zerstechen, länger wird locker.</li><li>Mit «gehe … Schritte», «drehe … Grad» und «wiederhole» das Muster aufbauen. Eine Vorlage auf Millimeterpapier hilft, Strecken und Winkel abzulesen (siehe Krone unter <a href=\"/beispiele\">Beispiele</a>).</li><li>Wo die Nadel ohne Stich zu einer neuen Stelle fährt, entsteht ein Sprungstich. Die losen Fäden nach dem Sticken abschneiden oder bewusst stehen lassen.</li><li>Unter der Bühne «Exportieren als EXP» (oder DST) wählen und die Datei auf den USB-Stick speichern.</li></ol><p>Einstieg: <a href=\"https://mia.phsz.ch/pub/Informatikdidaktik/TurtleStitch/TurtleStitch%20Arbeitsbuch%20-%20Wir%20lernen%20programmieren%20mit%20TurtleStitch%20%28German%29.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">TurtleStitch-Arbeitsbuch der PH Schwyz</a> (PDF), <a href=\"https://www.turtlestitch.org/page/faq\" rel=\"noopener noreferrer\" target=\"_blank\">FAQ von TurtleStitch</a> (englisch).</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "kurz-inkstitch",
+    "accordion": true,
+    "title": "Kurzanleitung Inkscape mit Ink/Stitch",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<p>Inkscape ist ein kostenloses Vektorgrafikprogramm, Ink/Stitch eine Erweiterung, die aus Pfaden Stiche macht.</p><figure class=\"schritt\"><img src=\"/assets/inkstitch-vorlage-stiche.png\" alt=\"Links ein Logo als farbige Vektorgrafik mit Sonnenblume, Klammern und Schriftzug, rechts dasselbe Logo als Stichplan aus Ink/Stitch: Flächen als Füllstich, Blütenblätter als Satinstich, Schrift aus parallelen Stichlinien\" width=\"1100\" height=\"423\" loading=\"lazy\"><figcaption>Links die Vektorgrafik, rechts der Stichplan aus Ink/Stitch. Bilder: <a href=\"https://commons.wikimedia.org/wiki/File:MediaWiki_logo_reworked_embroidery.svg\" rel=\"noopener noreferrer\" target=\"_blank\">Daniel K. Schneider, Wikimedia Commons</a>, CC0, Logo von MediaWiki.</figcaption></figure><ol><li><a href=\"https://inkscape.org/de/release/\" rel=\"noopener noreferrer\" target=\"_blank\">Inkscape</a> installieren und <strong>einmal öffnen</strong>, sonst scheitert die Installation von Ink/Stitch.</li><li><a href=\"https://inkstitch.org/de/docs/install/\" rel=\"noopener noreferrer\" target=\"_blank\">Ink/Stitch</a> installieren. Auf dem Mac das Paket für Apple Silicon oder Intel wählen (ab macOS 12). Meldet macOS einen nicht verifizierten Entwickler: Datei mit Control-Klick öffnen.</li><li>Motiv als JPG oder PNG importieren und mit «Pfad &gt; Bitmap nachzeichnen» in Pfade umwandeln. Die Vorschau zeigt, welcher Schwellwert die klarsten Linien ergibt. Eigene Zeichnungen lassen sich auch direkt mit dem Bézier-Werkzeug anlegen.</li><li>Die Bildvorlage auf eine eigene Ebene legen und ausblenden.</li><li>Pfade markieren, unter «Erweiterungen &gt; Ink/Stitch &gt; Parameter» die Stichart wählen: Geradstich für Linien, Satinstich für schmale Bänder, Füllstich für Flächen.</li><li>Mit «Erweiterungen &gt; Ink/Stitch &gt; Visualisieren und Exportieren &gt; Simulator» den Stickablauf kontrollieren.</li><li>Zuerst als SVG speichern (zum Weiterbearbeiten), dann mit «Datei &gt; Kopie speichern unter» als <strong>EXP</strong> oder DST.</li></ol><p>Die <a href=\"https://inkstitch.org/de/tutorials/\" rel=\"noopener noreferrer\" target=\"_blank\">Tutorials auf inkstitch.org</a> führen vom Installieren über die Sticharten bis zu Schriften. Ink/Stitch braucht etwas Einarbeitung, die Facebook-Gruppe «Inkstitch Deutsch» hilft bei Problemen.</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "kurz-sticksoftware",
+    "accordion": true,
+    "title": "Kurzanleitung Bernina Sticksoftware 9",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<p>Auf dem Laptop im Atelier ist die Sticksoftware 9 Plus installiert. Sie läuft nur unter Windows. Ausführliche Anleitung: Benutzerhandbuch auf Moodle. Laminierte Kurzanleitungen zur B 535 und B 590 liegen bei den Garnboxen.</p><ol><li>Auf der Stickerei-Arbeitsfläche eine neue Datei öffnen, Maschinentyp und Stickrahmen wählen.</li><li>Bild als JPG oder PNG einfügen. Gut geeignet sind klare Formen mit glatten Kanten und gleichmässiger Breite, ohne kleine vorstehende Details.</li><li>In der Werkzeugpalette «Autom. Digitalisieren» öffnen und «Sofort-Autodigitalisieren» ausführen. Anzahl Farben festlegen, Stiche für Kontur und Füllung wählen. Für Fotos «Farbfotostickerei» wählen und Auflösung, Kontrast und Farben anpassen.</li><li>«Bitmaps» ausschalten, damit das Bild im Hintergrund verschwindet, und das Ergebnis prüfen. Füllungen und Konturen ausprobieren.</li><li>Speichern als ART-Datei (zum Weiterbearbeiten), dann unter «Datei &gt; Maschinendatei exportieren» als EXP.</li><li>Auf den USB-Stick oder per Kabel an die Maschine senden. Für die Platzierung kann eine Stickvorlage ausgedruckt werden.</li></ol><p>Beim Exportieren auf einen Bernina-USB-Stick entstehen pro Muster drei Dateien (EXP, INF, BMP). Alle drei zusammen kopieren.</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "fertige-muster",
+    "accordion": false,
+    "title": "Fertige Muster",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Fertige Muster</h2><p>Auf der B 535 und B 590 sind Schriften, Bordüren, Quiltmuster, Tiere, Blumen und weitere Motive gespeichert. Im Bearbeitungsmenü lassen sie sich verschieben, drehen, spiegeln, kombinieren und punktgenau platzieren. Die <a href=\"https://www.bernina.com/Bernina/media/Support/Sewing_Quilting_Embroidery/5_Serie_NEW/BERNINA_590/Documents/DE/1026725_10A_01_web_manual_B590_2019-09_DE.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Bedienungsanleitung B 590</a> (PDF) beschreibt alle Funktionen.</p><p>Kostenlose und kostenpflichtige Muster gibt es zum Beispiel bei <a href=\"https://blog.bernina.com/de/tag/stickmuster-kostenlos/\" rel=\"noopener noreferrer\" target=\"_blank\">Bernina Blog</a>, <a href=\"https://www.embroideryonline.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Embroidery Online</a> und <a href=\"https://makema.de/collections/vorlagen-digital\" rel=\"noopener noreferrer\" target=\"_blank\">Makema</a>. Vor dem Herunterladen prüfen, ob die Datei als EXP oder DST erhältlich ist und in den Stickrahmen passt.</p>"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "stickgrund",
+  "label": "Stickgrund und Vlies",
+  "title": "Stickgrund und Vlies",
+  "sections": [
+   {
+    "id": "kopf-stickgrund",
+    "accordion": false,
+    "title": "",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h1>Stickgrund und Vlies</h1><p><strong>Ohne Stickvlies geht es nicht.</strong> Der Stoff dehnt und verzieht sich unter den vielen Stichen, das Muster wird schief, der Stoff wellt sich, im schlimmsten Fall bricht die Nadel. Das Vlies liegt unter dem Stoff und stabilisiert ihn während des Stickens.</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "vlies-wahl",
+    "accordion": false,
+    "title": "Welches Vlies passt?",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Welches Vlies passt?</h2><table><thead><tr><th scope=\"col\">Vlies</th><th scope=\"col\">Für</th><th scope=\"col\">Entfernen</th></tr></thead><tbody><tr><th scope=\"row\">Reissvlies</th><td>Feste, nicht dehnbare Stoffe wie Jeans, Leinen, Baumwolle</td><td>nach dem Sticken vorsichtig abreissen, dabei die Stickerei festhalten</td></tr><tr><th scope=\"row\">Schneidevlies</th><td>Dehnbare Stoffe wie Jersey, Sweat, Strick, dichte Muster mit vielen Stichen</td><td>rund um das Motiv abschneiden, bleibt dauerhaft als Stütze</td></tr><tr><th scope=\"row\">Aufbügelvlies</th><td>Dehnbare Stoffe, die sich beim Sticken verziehen</td><td>je nach Sorte abreissen oder abschneiden</td></tr><tr><th scope=\"row\">Klebevlies</th><td>Kleine Stücke, empfindliche Stoffe, Teile, die sich nicht einspannen lassen</td><td>Vlies wird eingespannt, Stoff draufgeklebt, danach von aussen zur Mitte ablösen</td></tr><tr><th scope=\"row\">Wasserlösliches Vlies</th><td>Durchsichtige Stoffe, Frottee (als Abdeckung oben), freistehende Spitze</td><td>grob abschneiden, Rest auswaschen</td></tr></tbody></table><p>Faustregel: je leichter der Stoff, desto leichter das Vlies. Auf gute Qualität achten, das Vlies soll gleichmässig sein und sich nicht verziehen. Mehr dazu bei <a href=\"https://www.sticktier.de/blogs/news/welches-stickvlies-fur-was\" rel=\"noopener noreferrer\" target=\"_blank\">Sticktier</a>. [VOR ORT PRUEFEN: welche Vliese im Atelier vorrätig sind und wo sie liegen]</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "einspannen",
+    "accordion": false,
+    "title": "Stickgrund einspannen",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Stickgrund einspannen</h2><ol><li>Platzierung planen: für eine punktgenaue Platzierung die Motivmitte mit einem Kreuz markieren (Schneiderkreide oder auswaschbarer Stift), für eine freie Platzierung zwei Punkte.</li><li>Stickrahmen wählen, der knapp grösser als das Motiv ist. Die Schablone im Rahmen hilft beim Ausrichten des Kreuzes.</li><li>Vlies und Stoff zusammen straff, aber nicht gedehnt einspannen. Der Stoff soll klingen wie ein Trommelfell.</li><li>Je nach Vlies: <strong>selbstklebendes Vlies</strong> einspannen, Schutzpapier abziehen, Stoff aufkleben. <strong>Nicht klebendes Vlies</strong> einspannen und den Stoff mit wenig Textilkleber fixieren. <strong>Aufbügelvlies</strong> zuerst auf die Rückseite des Stoffs bügeln.</li></ol>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "vlies-entfernen",
+    "accordion": false,
+    "title": "Nach dem Sticken",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Nach dem Sticken: Vlies entfernen</h2><ul><li>Reissvlies: die Stickerei mit einer Hand festhalten und das Vlies in kleinen Stücken abreissen.</li><li>Schneidevlies: mit der Schere oder dem Nahttrenner nah am Motiv abschneiden. Beim Nahttrenner liegt die Kugel zwischen Stoff und Vlies.</li><li>Klebevlies: von aussen zur Mitte ablösen. Das entstandene Loch im Vlies lässt sich beim nächsten Mal mit einem Stück Klebevlies von unten flicken.</li><li>Wasserlösliches Vlies: möglichst viel vor dem Waschen entfernen, Reste mit einem feuchten Frottiertuch abtupfen.</li></ul>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "klebevlies-flicken",
+    "accordion": false,
+    "title": "Klebevlies flicken",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Klebevlies flicken</h2><p>Eingespanntes Klebevlies lässt sich für mehrere Stickereien brauchen. Das Loch, das beim Ablösen entsteht, wird von unten mit einem Stück Klebevlies geflickt wie mit einem Pflaster.</p>"
+       },
+       {
+        "type": "schritte",
+        "quelle": "Fotos aus dem Atelier.",
+        "schritte": [
+         {
+          "bild": "/assets/klebevlies-1.jpg",
+          "alt": "Brauner Stoff mit rosa Gecko und Stern, aufgeklebt auf das weisse Klebevlies im Stickrahmen",
+          "titel": "Fertig gestickt",
+          "html": "Der Stoff klebt auf dem Klebevlies, das im Rahmen eingespannt ist. Der Rahmen bleibt zum Ablösen in der Hand oder auf dem Tisch."
+         },
+         {
+          "bild": "/assets/klebevlies-2.jpg",
+          "alt": "Der bestickte Stoff wird vom Klebevlies abgezogen, im Vlies bleibt ein Loch in der Form des Motivs",
+          "titel": "Stoff ablösen",
+          "html": "Den Stoff von aussen zur Mitte abziehen. Wo gestickt wurde, reisst das Vlies mit, im Rahmen bleibt ein Loch in der Form des Motivs."
+         },
+         {
+          "bild": "/assets/klebevlies-3.jpg",
+          "alt": "Stickrahmen mit Klebevlies, das Loch ist von unten mit einem neuen Stück Klebevlies abgedeckt",
+          "titel": "Loch von unten abdecken",
+          "html": "Ein Stück Klebevlies, etwas grösser als das Loch, von unten mit der Klebeseite nach oben gegen das Loch drücken."
+         },
+         {
+          "bild": "/assets/klebevlies-4.jpg",
+          "alt": "Nahaufnahme: rechteckiges Flickstück unter dem Loch, die Form des alten Motivs schimmert durch",
+          "titel": "Weitersticken",
+          "html": "Das Flickstück schliesst das Loch. Schutzpapier abziehen, den nächsten Stoff aufkleben und weitersticken. Wenn das Vlies wellig oder lose wird, neu einspannen."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "sticken",
+  "label": "Sticken",
+  "title": "Sticken",
+  "sections": [
+   {
+    "id": "kopf-sticken",
+    "accordion": false,
+    "title": "",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h1>Sticken</h1><p>Ablauf an der Bernina B 535 und B 590 mit Stickmodul. Begriffe:</p><div class=\"begriffe\"><div class=\"begriff\"><div class=\"text\"><strong>Stickmodul</strong>wird links an die Maschine angeschlossen und bewegt den Stickrahmen unter der Nadel</div></div><div class=\"begriff mit-bild\"><img src=\"/assets/stickrahmen.jpg\" alt=\"Grosser ovaler Stickrahmen, beschriftet mit Large oval hoop 145 x 255, daneben der mittlere und der kleine Rahmen, an Haken unter einem Tablar\" width=\"900\" height=\"499\" loading=\"lazy\"><div class=\"text\"><strong>Stickrahmen</strong>spannt Stoff und Vlies, die Schablone darin zeigt Mitte und Stickfläche. Gross oval 145&nbsp;×&nbsp;255&nbsp;mm, mittel 100&nbsp;×&nbsp;130&nbsp;mm, klein 50&nbsp;×&nbsp;72&nbsp;mm (für Ärmel und Taschen). Sie hängen unter dem Tablar.</div></div><div class=\"begriff\"><div class=\"text\"><strong>Stickfuss 26</strong>der Nähfuss zum Sticken, auch in der Benutzeroberfläche auswählen</div></div><div class=\"begriff\"><div class=\"text\"><strong>Stichplatte</strong>Geradstich- oder CutWork-Stichplatte mit kleinem Loch, verhindert, dass der Stoff in die Öffnung gezogen wird</div></div><div class=\"begriff\"><div class=\"text\"><strong>Sticknadel</strong>System 130/705 H-E mit grösserem Öhr, Stärke 75 für feine, 90 für schwere Stoffe. Auf Jersey und Strick eine Jerseynadel H-SUK mit Kugelspitze.</div></div><div class=\"begriff mit-bild\"><img src=\"/assets/garn-etikett.jpg\" alt=\"Etikett auf der Garnbox: Maschinen-Stick-Garn. Unterfaden Madeira oder Mettler, schwarz oder weiss. Erprobungen Mettler Poly Sheen. Original Madeira Rayon.\" width=\"700\" height=\"488\" loading=\"lazy\"><div class=\"text\"><strong>Oberfaden</strong>glänzender Stickfaden aus den Garnboxen: für Erprobungen Mettler Poly Sheen (Polyester), für das Original Madeira Rayon (Viskose)</div></div><div class=\"begriff mit-bild\"><img src=\"/assets/unterfaden-mettler.jpg\" alt=\"Je eine Spule Mettler-Unterfaden No. 150 in Schwarz und Weiss, 1000 m\" width=\"783\" height=\"800\" loading=\"lazy\"><div class=\"text\"><strong>Unterfaden</strong>dünner Faden in Schwarz oder Weiss für die Spule, Madeira Bobbinfil oder Mettler Bobbinette No. 150. Er bleibt auf der Rückseite.</div></div><div class=\"begriff\"><div class=\"text\"><strong>Sprungstich</strong>die Nadel fährt ohne Stich zu einer neuen Stelle, der Faden wird je nach Muster automatisch abgeschnitten oder bleibt als Schlaufe stehen</div></div></div><p class=\"bildquelle\">Fotos aus dem Atelier.</p>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "maschine-vorbereiten",
+    "accordion": true,
+    "title": "1. Maschine vorbereiten",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<ol><li>Maschine ausschalten. Stickmodul links anschliessen, dabei ist die Maschine aus.</li><li>Transporteur versenken.</li><li>Geradstich- oder CutWork-Stichplatte montieren. Prüfen, ob die Nadel durch das kleine Loch passt.</li><li>Stickfuss 26 montieren und in der Benutzeroberfläche auswählen.</li><li>Sticknadel passend zu Faden und Stoff einsetzen (siehe Begriffe) und ebenfalls in der Benutzeroberfläche auswählen.</li><li>Unterfaden in Schwarz oder Weiss einsetzen, passend zur Farbe des Stoffs. Gefüllte Spulen liegen in der Zubehörbox.<figure class=\"schritt\"><img src=\"/assets/zubehoerbox.jpg\" alt=\"Geöffnete Bernina-Zubehörbox, oben gefüllte Spulen in Weiss und Schwarz, unten Nähfüsse\" width=\"569\" height=\"700\" loading=\"lazy\"><figcaption>Zubehörbox: oben Spulen mit Unterfaden, unten Nähfüsse.</figcaption></figure></li><li>Oberfaden einfädeln. Zum Einfädeln den Nähfuss anheben.</li></ol>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "muster-laden",
+    "accordion": true,
+    "title": "2. Stickmuster laden und Rahmen einsetzen",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<ol><li>Maschine einschalten, in den Stickmodus wechseln.</li><li>USB-Stick einstecken und das Muster laden, oder ein gespeichertes Muster der Maschine wählen.</li><li>Muster bei Bedarf bearbeiten: drehen, spiegeln, punktgenau platzieren. Grösse höchstens um 10&nbsp;% ändern.</li><li>Auf das Nadel-Symbol tippen, die Maschine berechnet den Stickauftrag und schlägt einen Stickrahmen vor.</li><li>Nadel und Stickfuss anheben, den Stickrahmen einsetzen und einrasten lassen.</li><li>Mit «Check Stickmustergrösse» die Ecken des Musters abfahren lassen. So zeigt sich, ob das Muster im Rahmen und am richtigen Ort liegt.</li></ol>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "stickprobe",
+    "accordion": true,
+    "title": "3. Stickprobe",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<p>Vor dem eigentlichen Werkstück <strong>immer eine Stickprobe</strong> mit Originalstoff, Originalvlies und Originalfaden sticken. Sie zeigt, ob</p><ul><li>der Stoff glatt bleibt und sich nicht wellt (sonst stärkeres Vlies),</li><li>die Stiche dicht genug sind und der Unterfaden nicht nach oben kommt (sonst Fadenspannung oder Stickdichte anpassen),</li><li>Grösse und Farben wirken wie geplant.</li></ul>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sticken-ablauf",
+    "accordion": true,
+    "title": "4. Sticken",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<ol><li>Start-Stopp-Taste drücken, bis die Maschine losstickt.</li><li>Neben der Maschine bleiben und zuschauen. Hände weg vom Rahmen, solange er sich bewegt.</li><li>Bei einem Farbwechsel hält die Maschine an. Neuen Oberfaden einfädeln, mit Start-Stopp weitersticken.</li><li>Bei Fadenbruch, Fadennest oder ungewohnten Geräuschen sofort mit Start-Stopp anhalten. Faden neu einfädeln, auf der Maschine ein paar Stiche zurückgehen und weitersticken.</li><li>Am Ende schneidet die Maschine die Fäden ab und vernäht sie.</li></ol>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "aufraeumen",
+    "accordion": true,
+    "title": "5. Nach dem Sticken",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<ol><li>Stickrahmen abnehmen, Stoff ausspannen, Vlies entfernen (siehe <a href=\"/stickgrund#vlies-entfernen\">Stickgrund und Vlies</a>). Sprungstiche auf Vorder- und Rückseite abschneiden.</li><li>Maschine ausschalten, Stickmodul abnehmen und versorgen. Stickrahmen an die Haken unter dem Tablar hängen, Garn in die Garnbox, Spulen und Füsse in die Zubehörbox.</li><li>Fadenreste und Flusen entfernen, Platz sauber hinterlassen. Defekte oder fehlendes Material melden.</li></ol><p>[VOR ORT PRUEFEN: an wen Defekte gemeldet werden]</p>"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "beispiele",
+  "label": "Beispiele",
+  "title": "Beispiele",
+  "sections": [
+   {
+    "id": "kopf-beispiele",
+    "accordion": false,
+    "title": "",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h1>Beispiele</h1><p>Stickereien aus dem Atelier, geordnet nach dem Weg zur Stickdatei.</p><figure class=\"schritt\"><img src=\"/assets/beispiel-wand.jpg\" alt=\"Wand im Atelier mit Infoblättern zu Coded Embroidery, Embroidery Designer, Inkscape, Vektor und Pixel, Sticksoftware, darunter gestickte Beispiele\" width=\"1000\" height=\"750\" loading=\"lazy\"><figcaption>Stickmodul-Wand im Atelier.</figcaption></figure>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bsp-programmiert",
+    "accordion": false,
+    "title": "Programmiert",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Programmiert</h2><div class=\"galerie\"><figure><img src=\"/assets/beispiel-krone.jpg\" alt=\"Krone auf Millimeterpapier vorgezeichnet, darunter zweimal als Stickerei auf weissem Stoff\" width=\"352\" height=\"800\" loading=\"lazy\"><figcaption>Krone: zuerst auf Millimeterpapier, dann in TurtleStitch programmiert.</figcaption></figure><figure><img src=\"/assets/beispiel-spirale.jpg\" alt=\"Quadrat aus vielen gedrehten Linien in Orange auf blauem Filz, die eine Spirale bilden\" width=\"800\" height=\"787\" loading=\"lazy\"><figcaption>Untersetzer: gedrehte Quadrate in TurtleStitch.</figcaption></figure><figure><img src=\"/assets/beispiel-rosette.jpg\" alt=\"Rosette aus sich überlagernden Kreisen in Neongelb auf weissem Stoff\" width=\"760\" height=\"800\" loading=\"lazy\"><figcaption>Rosette aus wiederholten Kreisen.</figcaption></figure><figure><img src=\"/assets/beispiel-mandala.jpg\" alt=\"Rosette aus feinen weissen Linien auf goldgelbem Stoff\" width=\"800\" height=\"761\" loading=\"lazy\"><figcaption>Rosette auf goldgelbem Stoff.</figcaption></figure><figure><img src=\"/assets/beispiel-stern.jpg\" alt=\"Achteck mit Rautenstern in gelbem Faden auf schwarzem Stoff\" width=\"800\" height=\"768\" loading=\"lazy\"><figcaption>Achteckstern, wie im Embroidery Designer programmiert.</figcaption></figure></div>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bsp-gezeichnet",
+    "accordion": false,
+    "title": "Gezeichnet und digitalisiert",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Gezeichnet und digitalisiert</h2><div class=\"galerie\"><figure><img src=\"/assets/beispiel-zeichnung.jpg\" alt=\"Linienzeichnung einer Person mit Mütze und verschränkten Armen, schwarz auf weissem Stoff\" width=\"800\" height=\"685\" loading=\"lazy\"><figcaption>Linienzeichnung nach einem Foto.</figcaption></figure><figure><img src=\"/assets/beispiel-engel.jpg\" alt=\"Kinderzeichnung eines Engels mit Sonne als Kopf, gelber Faden auf blauem Filz\" width=\"763\" height=\"800\" loading=\"lazy\"><figcaption>Kinderzeichnung als Stickerei.</figcaption></figure><figure><img src=\"/assets/beispiel-vogel.jpg\" alt=\"Fliegender Vogel als feine helle Linienzeichnung auf Jeansstoff\" width=\"800\" height=\"739\" loading=\"lazy\"><figcaption>Vogel auf Jeansstoff.</figcaption></figure><figure><img src=\"/assets/beispiel-bee.jpg\" alt=\"Schriftzug «let it bee» mit kleiner Biene in Gold auf zwei dunklen Stoffstücken\" width=\"706\" height=\"800\" loading=\"lazy\"><figcaption>Schriftzug «let it bee», mit Inkscape vorbereitet.</figcaption></figure></div><p class=\"bildquelle\">Fotos aus dem Atelier.</p>"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "ressourcen",
+  "label": "Ressourcen",
+  "title": "Ressourcen",
+  "sections": [
+   {
+    "id": "kopf-ressourcen",
+    "accordion": false,
+    "title": "",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h1>Ressourcen</h1>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "videos",
+    "accordion": false,
+    "title": "Coded Embroidery",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Coded Embroidery</h2><p>Kurzfilm über programmierte Stickereien, Ausgangspunkt für viele Unterrichtsideen. Das Video lädt erst auf Klick von YouTube.</p>"
+       },
+       {
+        "type": "video",
+        "src": "https://www.youtube-nocookie.com/embed/JIG3w7p5ZqM",
+        "title": "Coded Embroidery",
+        "label": "Coded Embroidery",
+        "provider": "YouTube"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "software-links",
+    "accordion": false,
+    "title": "Software und Anleitungen",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Software und Anleitungen</h2><ul><li><a href=\"https://www.turtlestitch.org/\" rel=\"noopener noreferrer\" target=\"_blank\">TurtleStitch</a>: Plattform mit Galerie, Beispiele ansehen und weiterbearbeiten</li><li><a href=\"https://mia.phsz.ch/pub/Informatikdidaktik/TurtleStitch/TurtleStitch%20Arbeitsbuch%20-%20Wir%20lernen%20programmieren%20mit%20TurtleStitch%20%28German%29.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">TurtleStitch-Arbeitsbuch</a>: Einstieg der PH Schwyz (PDF)</li><li><a href=\"https://catrobat.org/docs/brickdocumentation/embroidery/\" rel=\"noopener noreferrer\" target=\"_blank\">Catrobat: Stick-Bausteine</a>: Erklärung der Bausteine im Embroidery Designer</li><li><a href=\"https://inkstitch.org/de/tutorials/\" rel=\"noopener noreferrer\" target=\"_blank\">Ink/Stitch Tutorials</a>: vom Installieren bis zu Schriften und Line-Art</li><li><a href=\"https://www.youtube.com/playlist?list=PLcsT5_kTFqwWvAHxbGtIU7H_2-wuX1WA7\" rel=\"noopener noreferrer\" target=\"_blank\">Ink/Stitch-Serie von «Made by Sinus»</a>: empfehlenswerte Videoreihe auf YouTube</li><li><a href=\"https://www.bernina.com/de-CH/Maschinen-CH/Serien-Ubersicht/NEUE-BERNINA-5er-Serie/BERNINA-590#!tutorials\" rel=\"noopener noreferrer\" target=\"_blank\">Bernina 590 Tutorials</a>: Videos zu den ersten Schritten mit der Maschine</li><li><a href=\"https://youtu.be/yTGR41hODfw\" rel=\"noopener noreferrer\" target=\"_blank\">Stickmuster bearbeiten an der B 535 und B 590</a>: Video</li><li><a href=\"https://www.youtube.com/watch?v=ltt0JocnQJ8\" rel=\"noopener noreferrer\" target=\"_blank\">Sticksoftware 9: Motiv automatisch digitalisieren</a>: Video</li><li><a href=\"https://www.youtube.com/watch?v=drXLWyoUQ6g\" rel=\"noopener noreferrer\" target=\"_blank\">Foto in Stickdatei umwandeln</a>: Video</li></ul>"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "inspiration",
+    "accordion": false,
+    "title": "Inspiration",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h2>Inspiration</h2><ul><li><a href=\"https://www.phzh.ch/making\" rel=\"noopener noreferrer\" target=\"_blank\">PHZH Making im Unterricht</a>: Grundlagenkurs «Digitale Muster &amp; E-Textilien»</li><li><a href=\"https://www.kobakant.at/DIY/\" rel=\"noopener noreferrer\" target=\"_blank\">Kobakant</a>: E-Textilien und textile Technik</li><li><a href=\"https://makerstars.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Makerstars</a>: Making-Projekte für die Schule</li><li><a href=\"https://www.dizh.ch\" rel=\"noopener noreferrer\" target=\"_blank\">DIZH</a>: Digitalisierungsinitiative der Zürcher Hochschulen</li></ul>"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "impressum",
+  "label": "Impressum",
+  "title": "Impressum",
+  "sections": [
+   {
+    "id": "impressum",
+    "accordion": false,
+    "title": "Impressum",
+    "anchor": "",
+    "gallery": false,
+    "cells": [
+     {
+      "blocks": [
+       {
+        "type": "html",
+        "html": "<h1>Impressum</h1><p>Grundlage ist das Dossier «Sticken mit der Stickmaschine, Coded Embroidery» (Spezialisierung Design &amp; Technik, Modul Hightech, April 2026) und die Kurzanleitungen zur Bernina B 535 und B 590 im Textilatelier Sagenmatt. Fragen und Rückmeldungen zur Seite an <a href=\"mailto:lukas.jordi@phlu.ch\">lukas.jordi@phlu.ch</a>.</p><p>Lukas Jordi, in Co-Autorschaft mit Claude (KI-Assistent von Anthropic). Stand Oktober 2026.</p><p><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de\" rel=\"license noopener noreferrer\" target=\"_blank\"><img src=\"/assets/lizenz-cc-by-nc-sa.png\" alt=\"Lizenz Creative Commons BY-NC-SA 4.0\" width=\"134\" height=\"47\"></a></p><p>Die Seite steht unter der Lizenz Creative Commons BY-NC-SA 4.0. Ausgenommen sind die gezeigten Stickereien, die Rechte liegen bei ihren Urheberinnen und Urhebern, und Bilder Dritter, ihre Lizenz steht jeweils in der Bildunterschrift.</p>"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
